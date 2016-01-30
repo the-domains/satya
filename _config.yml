@@ -1,0 +1,28 @@
+name: satya
+favicon: null
+layout_spectrum: 0.3309700977988541
+typography_spectrum: 0.6987342373467982
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9941378049552441
+  lightness: 0.8476369292475283
+  saturation: 0.9421864827163517
+  rhythmicContrast: 0.7727590748108923
+purpose: []
