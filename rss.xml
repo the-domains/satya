@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[satya]]></title>
         <description><![CDATA[satya]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/satya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 16:42:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 17:06:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/satya/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>By Now</p>]]></description>
+            <link>https://thegrid.ai/satya/e01e8a97-294a-4c7f-99ad-dffd540164ab/index.html</link>
+            <guid isPermaLink="false">e01e8a97-294a-4c7f-99ad-dffd540164ab</guid>
+            <pubDate>Sun, 28 Feb 2016 17:06:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Satya it</p>]]></description>
-            <link>undefined6e2b7b48-095e-4a3c-a01f-5d28cd7176cb/index.html</link>
+            <link>https://thegrid.ai/satya/6e2b7b48-095e-4a3c-a01f-5d28cd7176cb/index.html</link>
             <guid isPermaLink="false">6e2b7b48-095e-4a3c-a01f-5d28cd7176cb</guid>
             <pubDate>Sun, 28 Feb 2016 16:42:14 GMT</pubDate>
         </item>
